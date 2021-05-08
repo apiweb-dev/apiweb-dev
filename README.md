@@ -1,12 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on My Little Tribu, a team project imagined by [Fanni](https://github.com/Kazsmer) and developed at [O'Clock school](oclock.io) with [Claire](https://github.com/Claire-Corsin), [Sophie](https://github.com/La-Sof) and [Jérémie](https://github.com/JeremieE), the dream team!
+- 🌱 I’m currently learning developement in WordPress. I love this CMS and especially its ecosystem.
+- 📫 How to reach me: smoke signals or morse code or look for my email on this page
+- 👯 I’m looking to collaborate with the world and Mars too, Elon, don't forget me please!
+- ⚡ Finally, crypto currencies passionnate me, especially $eth & $vet.
+
+
 <!--
-**apiweb-dev/apiweb-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
