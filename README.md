@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning developement in WordPress. I love this CMS and especially its ecosystem.
 - 📫 How to reach me? Smoke signals or morse code or look for my email on this page ↙
 - I’m looking to collaborate with the world and Mars too, Elon, don't forget me please!👽
-- 💲 Crypto currencies passionnate me, especially $eth & $vet
+- 💲 Crypto currencies and blockchain passionnate me, especially $eth & $vet
 - Ultimate thing, I can't stand the mess in all its forms ♻
 
 <!--
