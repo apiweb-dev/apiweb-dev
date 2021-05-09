@@ -5,7 +5,7 @@
 - 📢 How to contact me? Smoke signals or morse code or look for my email on this page ↙
 - I’m looking to collaborate with the world and Mars, why not? Elon, don't forget me please!👽
 - 💲 Crypto currencies and blockchain passionnate me, especially $eth & $vet
-- Ultimate thing, I can't stand the mess in all its forms ♻
+- One more thing ;-) I can't stand the mess in all its forms ♻
 
 <!--
 - 👯 I’m looking to collaborate on ...
